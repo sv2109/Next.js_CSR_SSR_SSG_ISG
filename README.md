@@ -1,7 +1,7 @@
 # Next.js_CSR_SSR_SSG_ISG
 Example project on Next.js for testing  CSR, SSR, SSG and ISG
 
-# Technologies used
+## Technologies used
 - Next.js
 - React
 - Bootstrap
@@ -9,6 +9,10 @@ Example project on Next.js for testing  CSR, SSR, SSG and ISG
 - bootstrap-icons
 - axios
 - API from imdb-api.com 
+
+## Demo on Vercel
+https://next-js-csr-ssr-ssg-isg.vercel.app/
+
 
 # Next.js readme
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
